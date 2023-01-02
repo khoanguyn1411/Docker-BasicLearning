@@ -1,4 +1,4 @@
-# Docker on NodeJS project
+# Docker basic learning
 
 ## Prerequisite
 - To run this app on your local computer, it is required to install Docker and Docker compose.
